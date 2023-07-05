@@ -1,1 +1,1 @@
-# resize-video-conversion_mp
+# resize_video_conversion_miniproject
